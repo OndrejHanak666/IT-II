@@ -1,0 +1,3 @@
+﻿  ukol 1.cpp
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\ukol 1\ukol 1\ukol 1.cpp(13,8): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  ukol 1.vcxproj -> C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\ukol 1\x64\Debug\ukol 1.exe
